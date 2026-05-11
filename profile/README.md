@@ -17,7 +17,7 @@ Regional Antioquia.
 
 ---
 
-## Repositorios
+## Ecosistema del Proyecto
 
 | Repositorio | Descripción | Stack |
 |---|---|---|
