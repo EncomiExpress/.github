@@ -31,6 +31,7 @@ Regional Antioquia.
 
 | Servicio | Rol |
 |---|---|
+| Vercel | Hosting del frontend |
 | Render | Hosting del backend |
 | Supabase | PostgreSQL 15 (gestionado) |
 | Cloudinary | Almacenamiento de imágenes y soportes |
